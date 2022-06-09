@@ -1,0 +1,68 @@
+.plugin-autotooltip_tip
+{
+	position: fixed;
+	display: block;
+	opacity: 0;
+	transition: opacity .3s ease-in-out;
+	padding: 8px;
+	margin: 5px;
+	z-index: 99999;
+	pointer-events: none;
+	border-radius: 3px;
+	color: #FFF;
+	background: rgba(20, 20, 20, 0.85);
+	font-size: 1em;
+	line-height: 1.4em;
+}
+
+.plugin-autotooltip_big {
+	padding: 12px;
+	border-radius: 6px;
+
+	> *:first-child {
+		margin-top: 0;
+		padding-top: 0;
+	}
+
+	> .level3 > *:last-child {
+		margin-bottom: 0;
+		padding-bottom: 0;
+	}
+}
+
+.plugin-autotooltip--visible {
+	opacity: 1;
+}
+
+.plugin-autotooltip-hidden-tip, .plugin-autotooltip-hidden-classes {
+	display: none;
+}
+
+.plugin-autotooltip_linked {
+	display: inline;
+}
+
+.plugin-autotooltip_simple {
+	border-bottom: 1px dotted black;
+}
+
+.plugin-autotooltip-title {
+	font-size: 125%;
+	font-weight: bold;
+}
+
+// Test alternate style
+.plugin-autotooltip__blue {
+	background: rgba(0, 0, 40, 0.85);
+}
+
+.plugin-autotooltip__plain {
+	background: #fff;
+	color: #000;
+	border: 1px solid #000;
+}
+
+.plugin-autotooltip__small {
+	font-size: .8em;
+	line-height: 1.5em;
+}
