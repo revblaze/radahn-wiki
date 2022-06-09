@@ -1,0 +1,14 @@
+====== Elden Ring Wiki ======
+
+<tooltip placement="top" title="This page is currently under heavy construction.">Radahn.com is an experimental wiki for Elden Ring, with a special focus on lore.</tooltip>
+
+
+===== Pages =====
+
+Wiki namespace syntax
+
+^ Page                                                  ^ Database Path                         ^ Address Path                         ^
+| [[weapons|Weapons]]                                   | ''/weapons''                          | ''weapons''                          |
+| [[weapons:daggers|Daggers]]                           | ''/weapons/daggers''                  | ''weapons:daggers''                  |
+| [[weapons:daggers:blade_of_calling|Blade of Calling]] | ''/weapons/daggers/blade_of_calling'' | ''weapons:daggers:blade_of_calling'' |
+
