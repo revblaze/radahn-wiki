@@ -1,0 +1,35 @@
+====== Weapons ======
+
+=== By Type ===
+
+  * Axes
+  * Ballistas
+  * Bows
+  * Claws
+  * Colossal Swords
+  * Colossal Weapons
+  * Crossbows
+  * Curved Greatswords
+  * Curved Swords
+  * [[weapons:daggers|Daggers]]
+  * Fists
+  * Flails
+  * Greataxes
+  * Great Spears
+  * Greatbows
+  * Great Hammers
+  * Greatswords
+  * Halberds
+  * Hammers
+  * Heavy Thrusting Swords
+  * Katanas
+  * Light Bows
+  * Reapers
+  * Seals
+  * Spears
+  * Staffs
+  * Straight Swords
+  * Thrusting Swords
+  * Torches
+  * Twinblades
+  * Whips

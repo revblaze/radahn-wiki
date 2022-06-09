@@ -1,0 +1,15 @@
+Sidebar 1
+
+{{indexmenu>..:#2|navbar}}
+
+----
+
+Sidebar 2
+
+{{indexmenu>..|js}}
+
+----
+
+acmenu
+
+<acmenu>

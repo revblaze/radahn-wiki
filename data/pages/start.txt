@@ -2,13 +2,40 @@
 
 <tooltip placement="top" title="This page is currently under heavy construction.">Radahn.com is an experimental wiki for Elden Ring, with a special focus on lore.</tooltip>
 
+Inspiration for simplicity: http://darksouls.wikidot.com
 
 ===== Pages =====
 
 Wiki namespace syntax
 
-^ Page                                                  ^ Database Path                         ^ Address Path                         ^
-| [[weapons|Weapons]]                                   | ''/weapons''                          | ''weapons''                          |
-| [[weapons:daggers|Daggers]]                           | ''/weapons/daggers''                  | ''weapons:daggers''                  |
-| [[weapons:daggers:blade_of_calling|Blade of Calling]] | ''/weapons/daggers/blade_of_calling'' | ''weapons:daggers:blade_of_calling'' |
+^ Page                                              ^ Database Path                         ^ Address Path                         ^
+| <autott>weapons:start</autott>                    | ''/weapons''                          | ''weapons:start''                    |
+| <autott>weapons:daggers</autott>                  | ''/weapons/daggers''                  | ''weapons:daggers''                  |
+| <autott>weapons:daggers:blade_of_calling</autott> | ''/weapons/daggers/blade_of_calling'' | ''weapons:daggers:blade_of_calling'' |
 
+===== Database Directory =====
+
+  * [[Weapons]]
+    * Axes, Ballistas, Bows, Claws, Colossal Swords, Colossal Weapons, Crossbows, Curved Greatswords, Curved Swords, Daggers, Fists, Flails, Greataxes, Great Spears, Greatbows, Great Hammers, Greatswords, Halberds, Hammers, Heavy Thrusting Swords, Katanas, Light Bows, Reapers, Seals, Spears, Staffs, Straight Swords, Thrusting Swords, Torches, Twinblades, Whips
+  * [[Shields]]
+    * Small, Medium, Greatshields
+  * [[Armor]]
+    * Helmet, Body, Gauntlets, Legs
+  * [[Spells]]
+    * Incantations, Sorceries
+  * [[Talismans]]
+  * [[Ashes of War]]
+  * [[Spirit Summons]]
+  * [[special_items|Unique/Special Items]]
+    * Keys, Great Runes, Tears of Wondrous Physick, Multiplayer, Maps
+  * [[Miscellaneous]]
+    * Ammo, Consumables, Materials, Cookbooks
+
+==== Helpful Resources ====
+
+**Map of the Lands Between**
+
+^ Resolution ^ Size  ^ Address                                    |
+| 8K         | 4.4MB | {{:wiki:landsbetween-8k.jpg?linkonly|}}    |
+| 4K         | 2.5MB | {{:wiki:landsbetween-4k.jpg?linkonly|}}    |
+| 1080p      | 0.8MB | {{:wiki:landsbetween-1080p.jpg?linkonly|}} |

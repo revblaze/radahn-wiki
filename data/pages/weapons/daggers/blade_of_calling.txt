@@ -1,0 +1,16 @@
+====== Blade of Calling ======
+
+> Dagger given to one who set out on a journey to fulfill her duty long ago. 
+> The power of its former owner, the kindling maiden, is still apparent.
+> 
+> The one who walks alongside flame,
+> Shall one day meet the road of Destined Death.
+> ---
+> **Unique Skill: Blade of Gold**
+> Leap into the air, charging the armament with golden flames that are then shot at the enemy as a single, blade-like projectile.
+> 
+> //Inflicts holy damage.//
+
+----
+
+Source: {{ :weapons:daggers:blade_of_calling-screen.jpg?linkonly |}}

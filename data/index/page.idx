@@ -1,3 +1,9 @@
 wiki:welcome
 wiki:syntax
 start
+weapons
+weapons:daggers
+weapons:daggers:blade_of_calling
+sidebar
+weapons:sidebar
+weapons:start

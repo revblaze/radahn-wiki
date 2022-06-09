@@ -1,0 +1,18 @@
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1654797599;s:8:"modified";i:1654800947;}s:7:"creator";s:14:"General Radahn";s:4:"user";s:5:"admin";s:11:"last_change";a:8:{s:4:"date";i:1654800947;s:2:"ip";s:14:"216.165.133.74";s:4:"type";s:1:"E";s:2:"id";s:15:"weapons:daggers";s:4:"user";s:5:"admin";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:29;}s:11:"contributor";a:1:{s:5:"admin";s:14:"General Radahn";}s:5:"title";s:7:"Daggers";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:7:"daggers";s:5:"title";s:7:"Daggers";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:277:"Daggers
+
+	*  Dagger
+	*  Parrying Dagger
+	*  Misericorde
+	*  Great Knife
+	*  Bloodstained Dagger
+	*  Erdsteel Dagger
+	*  Wakizashi
+	*  Celebrant's Sickle
+	*  Ivory Sickle
+	*  Crystal Knife
+	*  Scorpion's Stinger
+	*  Cinquedea
+	*  Glintstone Kris
+	*  Reduvia
+	*  
+	*  Black Knife";}s:8:"relation";a:2:{s:10:"references";a:15:{s:14:"weapons:dagger";b:0;s:23:"weapons:parrying_dagger";b:0;s:19:"weapons:misericorde";b:0;s:19:"weapons:great_knife";b:0;s:27:"weapons:bloodstained_dagger";b:0;s:23:"weapons:erdsteel_dagger";b:0;s:17:"weapons:wakizashi";b:0;s:25:"weapons:celebrants_sickle";b:0;s:20:"weapons:ivory_sickle";b:0;s:21:"weapons:crystal_knife";b:0;s:25:"weapons:scorpions_stinger";b:0;s:17:"weapons:cinquedea";b:0;s:23:"weapons:glintstone_kris";b:0;s:15:"weapons:reduvia";b:0;s:19:"weapons:black_knife";b:0;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1654797599;s:8:"modified";i:1654800947;}s:7:"creator";s:14:"General Radahn";s:4:"user";s:5:"admin";s:11:"last_change";a:8:{s:4:"date";i:1654800947;s:2:"ip";s:14:"216.165.133.74";s:4:"type";s:1:"E";s:2:"id";s:15:"weapons:daggers";s:4:"user";s:5:"admin";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:29;}s:11:"contributor";a:1:{s:5:"admin";s:14:"General Radahn";}}}

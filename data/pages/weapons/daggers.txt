@@ -1,0 +1,18 @@
+===== Daggers =====
+
+  * [[Dagger]]
+  * [[Parrying Dagger]]
+  * [[Misericorde]]
+  * [[Great Knife]]
+  * [[Bloodstained Dagger]]
+  * [[Erdsteel Dagger]]
+  * [[Wakizashi]]
+  * [[celebrants_sickle|Celebrant's Sickle]]
+  * [[Ivory Sickle]]
+  * [[Crystal Knife]]
+  * [[scorpions_stinger|Scorpion's Stinger]]
+  * [[Cinquedea]]
+  * [[Glintstone Kris]]
+  * [[Reduvia]]
+  * <autott>weapons:daggers:blade_of_calling</autott>
+  * [[Black Knife]]
